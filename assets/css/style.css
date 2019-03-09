@@ -439,6 +439,7 @@ header .intro-text .wodry {
 
 .abouttanam{
 	text-align: center;
+	font-size: 30px
 }
 
 section {
@@ -452,7 +453,7 @@ section {
 section h2.section-heading {
 	margin-top:0;
 	margin-bottom:15px;
-	font-size:40px
+	font-size:60px
 }
 
 section h3.section-subheading {
